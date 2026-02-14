@@ -1,0 +1,14 @@
+stock-market-direction-prediction/
+│
+├── notebooks/
+│   └── Stock_Direction_XGBoost.ipynb
+│
+├── src/
+│   ├── data.py
+│   ├── features.py
+│   ├── model.py
+│   └── evaluate.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
